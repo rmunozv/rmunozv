@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rmunozv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning RStats
+- 👋 Hi, I’m @rmunozv. Travelling from old school (as far as Cobol, Fortran, Pascal, ..., C++, Lisp, .Net, Php, ... Html/Css) to new world. World has changed, ah?
+- 👀 I’m interested in ... backends
+- 🌱 I’m currently learning RStats, Node.js, Power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
